@@ -1,8 +1,8 @@
 # Simple Python program to multiply two numbers
 
-# Define two numbers
-number1 = 6
-number2 = 7
+# Get two numbers from the user
+number1 = int(input("Enter the first number: "))
+number2 = int(input("Enter the second number: "))
 
 # Multiply the numbers
 result = number1 * number2
